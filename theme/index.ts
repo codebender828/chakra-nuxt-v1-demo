@@ -1,6 +1,8 @@
 import { extendTheme } from "@chakra-ui/vue-next";
 import * as components from "./components";
 import { globalStyles } from "./global-styles";
+import { textStyles } from "./text-styles";
+import { layerStyles } from "./layer-styles";
 import { semanticTokens } from "./semantic-tokens";
 
 export default extendTheme({
@@ -31,4 +33,6 @@ export default extendTheme({
     initialColorMode: "dark",
   },
   semanticTokens,
+  textStyles,
+  layerStyles,
 });
