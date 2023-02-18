@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare --trace-warnings"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "nuxt": "^3.2.2"
+  },
+  "dependencies": {
+    "@chakra-ui/nuxt-next": "0.0.0-dev-20230217182316",
+    "@chakra-ui/vue-auto-import": "0.0.0-dev-20230217135829",
+    "@fontsource/dm-sans": "^4.5.9",
+    "@fontsource/ibm-plex-mono": "^4.5.13",
+    "unplugin-vue-components": "^0.24.0"
+  }
+}
