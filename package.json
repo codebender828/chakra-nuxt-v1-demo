@@ -12,7 +12,7 @@
     "nuxt": "^3.2.2"
   },
   "dependencies": {
-    "@chakra-ui/nuxt-next": "0.0.0-dev-20230217182316",
+    "@chakra-ui/nuxt-next": "0.0.0-dev-20230218124703",
     "@chakra-ui/vue-auto-import": "0.0.0-dev-20230217135829",
     "@fontsource/dm-sans": "^4.5.9",
     "@fontsource/ibm-plex-mono": "^4.5.13",

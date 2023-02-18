@@ -5,4 +5,11 @@ export const Button = defineStyleConfig({
     rounded: "none",
     fontFamily: "body",
   },
+  variants: {
+    solid: {
+      borderBottomColor: "velvet.900",
+      borderBottomWidth: "2px",
+      borderBottomStyle: "solid",
+    },
+  },
 });

@@ -8,8 +8,8 @@
         <c-icon-button
           color-scheme="velvet"
           aria-label="Toggle color mode"
-          :icon="colorMode === 'light' ? 'sun' : 'moon'"
-          @click="toggleColorMode"
+          :icon="useColorModeValue('moon', 'sun').value"
+          @click="changeColorMode"
           rounded="none"
         />
       </c-button-group>
@@ -21,6 +21,11 @@
 import { chakra, useColorMode, useColorModeValue } from "@chakra-ui/vue-next";
 
 const { colorMode, toggleColorMode } = useColorMode();
+
+function changeColorMode() {
+  debugger;
+  toggleColorMode();
+}
 
 watchEffect(() => console.log("color mode changed", colorMode.value));
 </script>
