@@ -1,4 +1,4 @@
-# Chakra UI / Nuxt 3 Minimal Starter (No Hoisting)
+# Chakra UI / Nuxt 3 Minimal Starter (`shamefully-hoist=true`)
 
 Here we install Chakra UI Nuxt module and run `pnpm build` or `pnpm generate`. The process emits an error:
 `Ambiguous external namespace resolution: "MODE_NAME" re-exports "useColorMode" from one of the external modules "MODULE_1", "MODULE_2", "MODULE_3", "MODULE_4" or "MODULE_5"`.
