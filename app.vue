@@ -122,9 +122,7 @@ import NuxtLogo from "./components/icons/nuxt-logo";
 const { toggleColorMode } = useColorMode();
 
 const themeConfig = {
-  color: canUseDOM()
-    ? JSON.parse(localStorage.getItem("theme.color")!).color
-    : "whatsapp",
+  color: "whatsapp",
 };
 const selectedColor = useStorage("theme.color", themeConfig);
 

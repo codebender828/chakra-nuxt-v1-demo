@@ -13,10 +13,16 @@
   },
   "dependencies": {
     "@chakra-ui/nuxt-next": "0.0.0-dev-20230218191716",
-    "@chakra-ui/vue-auto-import": "0.0.0-dev-20230217135829",
+    "@chakra-ui/vue-next": "0.0.0-dev-20230218191716",
+    "@emotion/css": "^11.10.6",
+    "@emotion/server": "^11.10.0",
     "@fontsource/dm-sans": "^4.5.9",
     "@fontsource/ibm-plex-mono": "^4.5.13",
     "@vueuse/core": "^9.13.0",
-    "unplugin-vue-components": "^0.24.0"
+    "lodash.camelcase": "^4.3.0",
+    "lodash.memoize": "^4.1.2",
+    "lodash.mergewith": "^4.6.2",
+    "unplugin-vue-components": "^0.24.0",
+    "vue": "^3.2.47"
   }
 }
