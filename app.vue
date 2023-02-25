@@ -130,6 +130,15 @@ import {
   useColorMode,
   useColorModeValue,
   useTheme,
+  CStack,
+  CHeading,
+  CWrap,
+  CWrapItem,
+  CCircle,
+  CBadge,
+  CButtonGroup,
+  CButton,
+  CIconButton,
 } from "@chakra-ui/vue-next";
 import { useStorage } from "@vueuse/core";
 import DocumentationIcon from "./components/icons/documentation-icon";
