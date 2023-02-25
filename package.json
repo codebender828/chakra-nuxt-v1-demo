@@ -12,7 +12,8 @@
     "nuxt": "^3.2.2"
   },
   "dependencies": {
-    "@chakra-ui/nuxt-next": "0.0.0-dev-20230218191716",
+    "@chakra-ui/nuxt-next": "0.0.0-dev-20230225153612",
+    "@chakra-ui/styled-system": "^2.6.1",
     "@chakra-ui/vue-next": "0.0.0-dev-20230218191716",
     "@emotion/css": "^11.10.6",
     "@emotion/server": "^11.10.0",

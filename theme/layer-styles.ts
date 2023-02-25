@@ -1,4 +1,4 @@
-import { SystemStyleObject } from "@chakra-ui/vue-next";
+import { SystemStyleObject } from "@chakra-ui/styled-system";
 
 export const home: Record<string, SystemStyleObject> = {
   container: {
