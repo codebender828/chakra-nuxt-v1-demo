@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@chakra-ui/nuxt-next': 2.1.0-beta.4
+  '@chakra-ui/nuxt-next': 2.1.0-beta.5
   '@chakra-ui/styled-system': ^2.6.1
   '@emotion/css': ^11.10.6
   '@emotion/server': ^11.10.0
@@ -17,7 +17,7 @@ specifiers:
   vue: ^3.2.47
 
 dependencies:
-  '@chakra-ui/nuxt-next': 2.1.0-beta.4_vue@3.2.47
+  '@chakra-ui/nuxt-next': 2.1.0-beta.5_vue@3.2.47
   '@chakra-ui/styled-system': 2.6.1
   '@emotion/css': 11.10.6
   '@emotion/server': 11.10.0_@emotion+css@11.10.6
@@ -335,18 +335,18 @@ packages:
     resolution: {integrity: sha512-pKfOS/mztc4sUXHNc8ypJ1gPWSolWT770jrgVRfolVbYlki8y5Y+As996zMF6k5lewTu6j9DQequ7Cc9a69IVQ==}
     dev: false
 
-  /@chakra-ui/c-accordion/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-vd0gGjkLZjl3Gl1rKODzNhMNbjR4kPWmVC8ZvJogCBUN5Gzkyibg3/1mgBTMFu6un/JYotGMqBTkTf+TLrCz5A==}
+  /@chakra-ui/c-accordion/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-HaBJXHLJ2lAFQ0CV7TRqwWXc6nuiA1ocrAXWjEb+dIqn6ao/EPKQ54dwrOca4rnOEngsWoZE9BVc82pDNU37rQ==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-icon': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-motion': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-icon': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-motion': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-composables': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-composables': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       '@zag-js/accordion': 0.2.11
       '@zag-js/vue': 0.2.9_vue@3.2.47
       vue: 3.2.47
@@ -355,81 +355,81 @@ packages:
       - '@vue/composition-api'
     dev: false
 
-  /@chakra-ui/c-alert/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-qpm0jHl8o+tuEXcRtxqNTIk2oSKnN6pZOmzyciYP16HWrR21LzL+mQawWqGjYQyWyq7wo5C5VaxBjwxpNfeDaQ==}
+  /@chakra-ui/c-alert/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-FVZXvavHiRQE0erWmy1W5OrUYr5QsczFk94WsnSI7CQOfxozyf45vfsiDeZxBGs6FICaVcI5lse4kpS/Rj3hQA==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-icon': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/c-icon': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-avatar/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-9TgmM/lPRCTKK7jojzgdd+GjnSMehjzFGOLvhiRIGVM7K1frEpuwAoWVDaMeA1kYi8IQSUFUq2WQifa53yVC6Q==}
+  /@chakra-ui/c-avatar/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-iwWBnFPDFa7+5o6QPY0XcsRs8XDAx5Yxtaw0ZiggzAlvgKwfOsp8eCv91qmHgHAyWUCimIWAVgQCvCi/ePozLA==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-icon': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-image': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
-      '@chakra-ui/theme-tools': 2.0.17_ak67p4fuwhwgy7hpxa6ejvcgoy
+      '@chakra-ui/c-icon': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-image': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
+      '@chakra-ui/theme-tools': 2.0.17_es2flcfvdj7o2v4vs237ptvmhy
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-layout': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-layout': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       csstype: 3.1.1
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-breadcrumb/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-JEpygb1MQrmEIOJxIrb+5j9nNICgOzethz30X4pO8T4HiXGlSjKeYaGSU0GWYdj6UTR9Wlp05bpUJUWI88xZQQ==}
+  /@chakra-ui/c-breadcrumb/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-1KDazA1+e/2lFUevm2itsXPNTUTQfwyZkSlKtxXHFkLm3o8Z1s0bxg6oukRi2jZl+owMOyAERS1U2OYL+zZI9g==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-button/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-LJs4EXD7qyMXCiBITt5PoTXold5fx09kR+9zGYfZpPJiHuoZPTfYIALKBBk/7h943kJa36Q70rQzvvF1UGUXdw==}
+  /@chakra-ui/c-button/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-F/eBV5xqMg1ts3lJPun1h00AfSjmp14keSbHIBeiDNfg1Kta7r3MfTDWMNic6Bubrcm2gb5ExEA4xSH1Fg8cig==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-icon': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-spinner': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-icon': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-spinner': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-checkbox/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-GVGM5fsrQtW6C2qNkx6c6RdSZOS+22zrtw0pcDQnBYsP0IBkcavjsR7N5GfOozBKlSvc/EZINb1Mv7ALQ9WwQw==}
+  /@chakra-ui/c-checkbox/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-nMGRiSyuFAdq7tCq2AZBUrMywGjo08usSVRaPSbLt/0EgLMJfKs6IdqFRCsc9rvfDBbaaHi51lLWVL8ShrZ1dQ==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-form-control': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-motion': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-form-control': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-motion': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-composables': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-composables': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       '@vueuse/motion': 1.6.0_vue@3.2.47
       '@zag-js/checkbox': 0.2.12
       '@zag-js/vue': 0.2.9_vue@3.2.47
@@ -439,143 +439,155 @@ packages:
       - '@vue/composition-api'
     dev: false
 
-  /@chakra-ui/c-close-button/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-gVP5FEOLZlluhGsqtSnhJOFc0NikFEyjh9JaaHNSDsG0OQdw4+vRmceqSmVuzsujEaaX78kNlb1HRYWYnQ+9Dw==}
+  /@chakra-ui/c-close-button/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-gqrdL3kh9BlTAuPKidxGOr5udWNddA0sJYIszsUnh4x6ixth1gGU4hYBLpObb0jYejU8qmYf+VbBfAtGy3PCvg==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-icon': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-icon': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-code/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-LKIUazrjXK+q66BN5zJuZ0koGwYCHomzBsX7nlNWdaGmyAsLKCFWXzTkSHKvPgCh/EIkUpReK9ml5/lQ3VR/hg==}
+  /@chakra-ui/c-code/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-7TL2dS9vNmSgjOpWhWSt2RvUzFR71eI4M7SnDhQibm2o38YjpImlWMSjjd7O2kZmdc4qL3juZKwO6oSCF9JRVA==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-color-mode/2.1.0-beta.2_vue@3.2.47:
-    resolution: {integrity: sha512-7dA2Q7QE5F0niCrqxNQ1Mx4WbVysJYO1miMLW/RT+2hT9ROz0ZadYgbbgELbfTjbr6IOb2XoGJr9yPg93wiSNg==}
+  /@chakra-ui/c-color-mode/2.1.0-beta.3_vue@3.2.47:
+    resolution: {integrity: sha512-KsTAmIsZONSS1mv90MDzMUKzrF/xeuPmYTl4wYQ4I4poaPmEvAvEZqxvo+ANz0CkBfzQ4TCIQkQ0pumSlmLzBg==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     dev: false
 
-  /@chakra-ui/c-focus-lock/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-4gvuPzD+KPXbpw3aOQ5d+DB5QSlSftGxb3KZwWKv2Y549bWDsjlFOJx02sviYRXImDYlkCwl9sC0xyu0izB5zA==}
+  /@chakra-ui/c-focus-lock/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-KHZM+fZOZ5RYb2UCBmWcRcB1nRoVNQShmWOcomat2pYQzZ0qYnX4Z+iUpWXFg5HYoWab4ohRHcsxUTihhYeZMw==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-composables': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-composables': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       focus-trap: 6.9.4
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-form-control/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-vYysgqpYfv0K8Zin/h3J6ESdGoFC/e4c/JRA74F2f3qWot7mYMTou/B1gOMzgR6668NvCm3qaw5XthAeCeGDng==}
+  /@chakra-ui/c-form-control/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-LtjlmarTSMErg5cf5V8s4qpaasuAeiNBFCXWDVgv9w3K2ZrKiJC0CK6TvfYOYsh1WPLUtX21gpf33dQzT2evjg==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-icon': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-icon': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-composables': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-composables': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       csstype: 3.1.1
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-icon/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-9bRDO+r6pMwjaJ7geV/QjSQtSS0aprD/mkB4DlW6dBUsUVssvMzyyaFgC4aeS52lklQ2bSgFqJsB+luOqp/kHA==}
+  /@chakra-ui/c-icon/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-qFp8SdUR5paLLBWvH5sKg25S2tAWOscxVC90AB87MvGs5D/MVh7KQxoCKLHyGpM2Nn6atEBc/uwjEdUdGluJng==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-image/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-yns9QqseTnJQNY9fcerD7gaRmi52aBNAEk3PBMtnieYqPi2I0ptiuxgStgY2OwWJJy2/CYwSPnjDdEjd9d/Eiw==}
+  /@chakra-ui/c-image/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-JX/asbs8jhgpgMdxJE1EQniyzapfW7SP7bUBtm1EpAfSfDK90PsrAna8thkLQOhgIFskaAasE/3VUxnvtcXbsg==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-input/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-FPPmnQ3lFAuvXcrFHW2nrNvgnJjsx3MobMwWWdrJ8adbWVfSPA9WJ4SPo3bl4oPzzG3S4suH0DJSs2SqY/hpjQ==}
+  /@chakra-ui/c-input/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-zXeNFIHORdGMCeDWTinKTgKIywEe+Vl32lXX3oq3dT61k5nYnxaqkLbR09FI1LcJop/MogeZvocfQTwBSCwtnw==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-form-control': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-form-control': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-media-query/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-eyUw+nwCIErtiFwTPDn+VpIL+WIp2y314krNKjA8MygB+cw2tBhcat6cPrtz5wIZDYtbZEEyR0jbxZ0tzn3YWQ==}
+  /@chakra-ui/c-live-region/2.0.0-beta.1_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-/mNjU4MhLbKkno2XFGKBKgC28xA0k+Vb6slPovj/rUEJ6/mnmfujeIgWhLg2cx2FA/ugYXc3CrHz+MjRXAlddA==}
     peerDependencies:
-      vue: 3.2.47
+      vue: ^3.1.4
     dependencies:
-      '@chakra-ui/vue-composables': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-menu/0.0.0-beta.5_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-gAGxkTst+ueVwwtPiOjOiPgEXdKu42D39kfqNbPlmUXAWuSX4KO+wTvSuj8BeFni64AJMjus4XDYUJF1h/12Dg==}
+  /@chakra-ui/c-media-query/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-w5sfZqRUao03KL2fur8voBRJxDBQGdFajCBPixxzPkxZDyBB81+rca5gS9GJxBNqOY9Sbm+KlzGBIO7WdCBNJg==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-button': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-portal': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/utils': 2.0.14
+      '@chakra-ui/vue-composables': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
+      vue: 3.2.47
+    transitivePeerDependencies:
+      - '@emotion/css'
+    dev: false
+
+  /@chakra-ui/c-menu/0.0.0-beta.6_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-HSIhW971cvaWCa5M1SjbZUBDVgnKCe0es5Rdq7RD3V95CeS/1KOiBKrkwkXSQuNp6AUCB/oScHYq0lqQJF30mQ==}
+    peerDependencies:
+      vue: 3.2.47
+    dependencies:
+      '@chakra-ui/c-button': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-portal': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-layout': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-layout': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       '@zag-js/menu': 0.3.8
       '@zag-js/vue': 0.2.9_vue@3.2.47
       vue: 3.2.47
@@ -583,22 +595,22 @@ packages:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-modal/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-zpHYikHFjmI/EZ7s+rVHzX+C3i9wtdIW/fGZd4fHsxshubl+34nuJwpx391xozGqvU33iYqxN1LLyGDMEbXhSQ==}
+  /@chakra-ui/c-modal/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-ca9UVlv7UYAZH0K9VDGgNuDxBiI4IlK/r3O1R4hhzeH8mU39dXiddJ/pG6DTHS0qCqKjKr8eDJfl14z93Q5ssg==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-close-button': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-focus-lock': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-motion': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-portal': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-scroll-lock': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-close-button': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-focus-lock': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-motion': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-portal': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-scroll-lock': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-accessibilty': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-composables': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-accessibilty': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-composables': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       '@vueuse/motion': 1.6.0_vue@3.2.47
       aria-hidden: 1.2.2
       vue: 3.2.47
@@ -609,16 +621,16 @@ packages:
       - react
     dev: false
 
-  /@chakra-ui/c-motion/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-nUy9nDslV1pxCRq8/PaRH238NCCMdv5Sqsw0NkCsQqoPTMVueTmCT1YFdaDidDZjoO1TVCfxUgUyYPRtNlzTBA==}
+  /@chakra-ui/c-motion/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-9quPQPMwoqJ4pOHkG8d5JkusdOYcjDpCxMh8j5+nl0poQhA0mEP3f6r6bZem7E49nSjfwjCYYIvQK9hOg+1/xA==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-composables': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-composables': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       '@vueuse/motion': 1.6.0_vue@3.2.47
       '@vueuse/shared': 9.13.0_vue@3.2.47
       vue: 3.2.47
@@ -627,16 +639,16 @@ packages:
       - '@vue/composition-api'
     dev: false
 
-  /@chakra-ui/c-pin-input/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-0nMXm66UqwTCPyPUymyze9q8pcYXIAIOziFxq/grAvoemE/evkIXa1FCrcaapAA8/RXntz2MxlMogGedRy9QYQ==}
+  /@chakra-ui/c-pin-input/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-3NwggpcISUj7uNeKrd7louvTPk8G9EIMz8P/nkw1G3tBZY9aJn+Wfakw+84z5V5eD2ItV5yT0u2q78zz04jhwQ==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-input': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-input': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       '@zag-js/pin-input': 0.2.12
       '@zag-js/vue': 0.2.9_vue@3.2.47
       csstype: 3.1.1
@@ -655,109 +667,134 @@ packages:
       vue: 3.2.47
     dev: false
 
-  /@chakra-ui/c-portal/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-buY71r+UT2A/YjR9zfzJqv17n2cel5cMeClyg4JZPPvx56jvG5/AWKn1cQM2HTweAVMuh+rfBx5VO87l19RQYA==}
+  /@chakra-ui/c-portal/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-JYMy2XaDE+Ci9K5Z5l50J1qzUsm5c7F6PA6jViEmcNy7Vk4eF1goCeX3QYUVfcWdHhzsBRDOv5NdddYMQihcJQ==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-composables': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-composables': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-reset/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-gm81ZUxzkeNY37AmNnH5EfAnTIvcSvBhE6bDPV+RguUnvNVKKKTZNKEn4Kj9H/lgYkWpPVBpTzPA+SdfKAv1yQ==}
+  /@chakra-ui/c-reset/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-HLRPdL1/6WcqQp4y4lAmkK0Y27j7WzaqO7FM8DRXuNPIrpTgV7Cpdoz9j14q5LFmEtCYvQYpQXe+iKvK6M58IQ==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-scroll-lock/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-XO0Wu1c3WrezLUcHKf7V8pmNWS6g1H9zcARe6JPBZMjM/KzokjrQ28rdoWiaFiMSPbz1Xvnigj/jCx5lTImV7w==}
+  /@chakra-ui/c-scroll-lock/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-DcHRVuHQg4n50sbVwDXvNAhezT8JnouIKACVoUOfYiavAFuXeBEFkjSeXWGng+2nqZxHOgtrp+36o03oUE/Akw==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/styled-system': 2.5.1
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/styled-system': 2.6.1
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       body-scroll-lock: 3.1.5
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-skip-nav/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-9pVy2XinflNgcaJYUWPvcvCtPBB5m3PsrkuzkI+5vIMB2q5fm+1ZZHSjuowK0J9h6dCnGuMtddIZohu3eM2jhw==}
+  /@chakra-ui/c-skip-nav/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-4Pum/AhyPC854XQ9T0gegrPkk62sSriVWTsIX7i4xHRsbDpL6ciYcUSMl5bc0zfE/Nmqfg00S1nljpc5cz52IA==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/styled-system': 2.5.1
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/styled-system': 2.6.1
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-spinner/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-/Aj7wiqO9VtDABK8zvHQrUOeieJJXpMN6MDlBj6KgQCwHc04iEFziWX0TcJnLp8aRVhtL7WsIMsIww/dp30toA==}
+  /@chakra-ui/c-spinner/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-6C7RYgS2DsGmwUPRkRTCnvH3XbbLm1KjPexpN8t5vNiEujnbRXaBKa9lgznURnzYDXR4d7AG/xLaAGhv/Q2lrQ==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-visually-hidden': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
-      '@chakra-ui/theme': 2.2.5_ak67p4fuwhwgy7hpxa6ejvcgoy
+      '@chakra-ui/c-visually-hidden': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
+      '@chakra-ui/theme': 2.2.5_es2flcfvdj7o2v4vs237ptvmhy
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-tag/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-1T3GHCihv0AV7ywM04rfksFyFAroZR11InHLN/QO8YU8PxMYWwzgexH/OpFk8J+yIdp19yXNHRN1cWCiBTx1uQ==}
+  /@chakra-ui/c-table/2.0.0-beta.1_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-Ip734/v0jKciOP+O2GA8jbd6G6FV9rN2/0oQUG1c8EVAsW3NZ1JKbI5Q+yv9qRpHON9sjKTs1jeW2svreXOaDA==}
+    peerDependencies:
+      vue: ^3.1.4
+    dependencies:
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
+      vue: 3.2.47
+    transitivePeerDependencies:
+      - '@emotion/css'
+    dev: false
+
+  /@chakra-ui/c-tag/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-nkkDCdeDltGoU37jAquL+tMiYqH1eDleBCpi/3QP8O2u4MOuax99FZqR34jErQWcgaCJlAEaorh/B64risMEuw==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-icon': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-icon': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-theme-provider/2.1.0-beta.2_fkfm53tnm2ahu4ji7pnqi6juem:
+  /@chakra-ui/c-textarea/0.0.0-beta.1_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-rlVHP2YjvVHypSO0U7lsP0Joyn6A97JUx/vyhzKQroZZujOQy7y8kAvsgg6Zo3sdjwurkOB6IhEbWvIrfLv/rg==}
+    peerDependencies:
+      vue: ^3.1.4
+    dependencies:
+      '@chakra-ui/c-form-control': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
+      vue: 3.2.47
+    transitivePeerDependencies:
+      - '@emotion/css'
+    dev: false
+
+  /@chakra-ui/c-theme-provider/2.1.0-beta.2_dktamzpa6jqdn7hwvx7scpggwq:
     resolution: {integrity: sha512-Vsea4kF4tUX8QcRbxqFy70y8Rv1S0jHB5afuNRLKadnDuzyLNN0ExA0+w1igH3m/ApE4fzCn+uB7uCEq1UxsLg==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/theme': 2.2.5_ak67p4fuwhwgy7hpxa6ejvcgoy
-      '@chakra-ui/theme-tools': 2.0.17_ak67p4fuwhwgy7hpxa6ejvcgoy
+      '@chakra-ui/theme': 2.2.5_es2flcfvdj7o2v4vs237ptvmhy
+      '@chakra-ui/theme-tools': 2.0.17_es2flcfvdj7o2v4vs237ptvmhy
       vue: 3.2.47
     transitivePeerDependencies:
       - '@chakra-ui/styled-system'
     dev: false
 
-  /@chakra-ui/c-toast/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-n+JqDeJ65ban44uL4mak5BpYjnqstZFK45m3Fani1Jvl4mZ6YUUV3m6Nd+E+ziSo7qP5qXHj1mKCnyiJpOOPmg==}
+  /@chakra-ui/c-toast/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-yxIuBZo732ubigi6koeupVw1QItxPmpYSeRE20IzWBZ33mlsxVxUE6PaVi2hFNwol9dSb9Pk3zaG9Nd1LvXOrw==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-alert': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-close-button': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/c-alert': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-close-button': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       '@zag-js/core': 0.2.9
       '@zag-js/toast': 0.2.12
       '@zag-js/vue': 0.2.9_vue@3.2.47
@@ -767,22 +804,22 @@ packages:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/c-visually-hidden/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-IuEVw4JX2Zdp8mTttJV96GwFU0yh3XglNtTe/+385hLcWIGIWAJwmDBWRtA55fDU/wqF2EX3VDKw2MiIluswyA==}
+  /@chakra-ui/c-visually-hidden/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-yz/UWnO1uJzMgSNdGYvwdvakUZ+Gs/6tj/QCD/nmvI1oAbqkEVx0r0C6Mw4GBIjbJ1SqP6SkcvSAJIo2abMY2Q==}
     peerDependencies:
       '@emotion/css': ^11.10.5
     dependencies:
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
       '@emotion/css': 11.10.6
     transitivePeerDependencies:
       - vue
     dev: false
 
-  /@chakra-ui/nuxt-next/2.1.0-beta.4_vue@3.2.47:
-    resolution: {integrity: sha512-h1lds4QITKlExQFxvFVZN+QzVai/PxdVq3vs0fLOqhyVh1NLBGLn2JypdMqHRpaq55fc+UNwEhsnvSWyBDIApA==}
+  /@chakra-ui/nuxt-next/2.1.0-beta.5_vue@3.2.47:
+    resolution: {integrity: sha512-1807bpzDqxNzWbo05m3bZ/GOgibE0qCPO/pLlKLLVgsFuekQs8E6iWy4MBKIu6GFCmYR2cnnZA3T0e0j3D9GAg==}
     dependencies:
-      '@chakra-ui/c-color-mode': 2.1.0-beta.2_vue@3.2.47
-      '@chakra-ui/vue-next': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-color-mode': 2.1.0-beta.3_vue@3.2.47
+      '@chakra-ui/vue-next': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
       '@emotion/css': 11.10.6
       '@emotion/server': 11.10.0_@emotion+css@11.10.6
       '@nuxt/kit': 3.2.2
@@ -801,20 +838,8 @@ packages:
       - vue
     dev: false
 
-  /@chakra-ui/shared-utils/2.0.4:
-    resolution: {integrity: sha512-JGWr+BBj3PXGZQ2gxbKSD1wYjESbYsZjkCeE2nevyVk4rN3amV1wQzCnBAhsuJktMaZD6KC/lteo9ou9QUDzpA==}
-    dev: false
-
   /@chakra-ui/shared-utils/2.0.5:
     resolution: {integrity: sha512-4/Wur0FqDov7Y0nCXl7HbHzCg4aq86h+SXdoUeuCMD3dSj7dpsVnStLYhng1vxvlbUnLpdF4oz5Myt3i/a7N3Q==}
-    dev: false
-
-  /@chakra-ui/styled-system/2.5.1:
-    resolution: {integrity: sha512-HhaXR/r5eGlC7vkoOWQ31yZEj+Aq+kFee7ZZb0fBRGKQichn06S9Ugr8CsFyzb+jNexHdtBlIcTBm0ufJ8HsFA==}
-    dependencies:
-      '@chakra-ui/shared-utils': 2.0.4
-      csstype: 3.1.1
-      lodash.mergewith: 4.6.2
     dev: false
 
   /@chakra-ui/styled-system/2.6.1:
@@ -823,17 +848,6 @@ packages:
       '@chakra-ui/shared-utils': 2.0.5
       csstype: 3.1.1
       lodash.mergewith: 4.6.2
-    dev: false
-
-  /@chakra-ui/theme-tools/2.0.17_ak67p4fuwhwgy7hpxa6ejvcgoy:
-    resolution: {integrity: sha512-Auu38hnihlJZQcPok6itRDBbwof3TpXGYtDPnOvrq4Xp7jnab36HLt7KEXSDPXbtOk3ZqU99pvI1en5LbDrdjg==}
-    peerDependencies:
-      '@chakra-ui/styled-system': '>=2.0.0'
-    dependencies:
-      '@chakra-ui/anatomy': 2.1.2
-      '@chakra-ui/shared-utils': 2.0.5
-      '@chakra-ui/styled-system': 2.5.1
-      color2k: 2.0.2
     dev: false
 
   /@chakra-ui/theme-tools/2.0.17_es2flcfvdj7o2v4vs237ptvmhy:
@@ -856,17 +870,6 @@ packages:
       lodash.mergewith: 4.6.2
     dev: false
 
-  /@chakra-ui/theme/2.2.5_ak67p4fuwhwgy7hpxa6ejvcgoy:
-    resolution: {integrity: sha512-hYASZMwu0NqEv6PPydu+F3I+kMNd44yR4TwjR/lXBz/LEh64L6UPY6kQjebCfgdVtsGdl3HKg+eLlfa7SvfRgw==}
-    peerDependencies:
-      '@chakra-ui/styled-system': '>=2.0.0'
-    dependencies:
-      '@chakra-ui/anatomy': 2.1.2
-      '@chakra-ui/shared-utils': 2.0.5
-      '@chakra-ui/styled-system': 2.5.1
-      '@chakra-ui/theme-tools': 2.0.17_ak67p4fuwhwgy7hpxa6ejvcgoy
-    dev: false
-
   /@chakra-ui/theme/2.2.5_es2flcfvdj7o2v4vs237ptvmhy:
     resolution: {integrity: sha512-hYASZMwu0NqEv6PPydu+F3I+kMNd44yR4TwjR/lXBz/LEh64L6UPY6kQjebCfgdVtsGdl3HKg+eLlfa7SvfRgw==}
     peerDependencies:
@@ -878,6 +881,15 @@ packages:
       '@chakra-ui/theme-tools': 2.0.17_es2flcfvdj7o2v4vs237ptvmhy
     dev: false
 
+  /@chakra-ui/utils/2.0.14:
+    resolution: {integrity: sha512-vYxtAUPY09Ex2Ae2ZvQKA1d2+lMKq/wUaRiqpwmeLfutEQuPQZc3qzQcAIMRQx3wLgXr9BUFDtHgBoOz0XKtZw==}
+    dependencies:
+      '@types/lodash.mergewith': 4.6.6
+      css-box-model: 1.2.1
+      framesync: 6.1.2
+      lodash.mergewith: 4.6.2
+    dev: false
+
   /@chakra-ui/utils/2.0.15:
     resolution: {integrity: sha512-El4+jL0WSaYYs+rJbuYFDbjmfCcfGDmRY95GO4xwzit6YAPZBLcR65rOEwLps+XWluZTy1xdMrusg/hW0c1aAA==}
     dependencies:
@@ -887,94 +899,97 @@ packages:
       lodash.mergewith: 4.6.2
     dev: false
 
-  /@chakra-ui/vue-accessibilty/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-XG5Vj8lyWdCkZ2UovsfbngR5ksAG9q34ti5i1uJ03UAEPHcfShn5HleO5PCsq39Wl4DCySUQS2OIIFTHMwtr+g==}
+  /@chakra-ui/vue-accessibilty/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-keeTo1dBW4xcsXLl+CuuR+E0mhS77wz0IUjpRmSit1ENo20gyCFiTPToPgQp6IDYN19hKmS5BaI6UDF/W94q3A==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/styled-system': 2.5.1
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/styled-system': 2.6.1
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/vue-composables/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-ZuxVvK1S6BQbuJgFmPKCx6a7Na5JAqxTFXUnNRCFJ6u7gLhJ+YW1sd2Vfc8LPvfPsIbs1n1cXj5YYmG1U+F/sg==}
+  /@chakra-ui/vue-composables/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-Qf7ebhRVzfG10ugpvnV/7ugCp0/84ZK1Il8a4NgHGYLAMFsxlYKreJXNCvsrT4Cmd1SCIspNCu3g7L6FW7G1Ug==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/vue-layout/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-EWdbsC9RSBRobaykdIFUa+OckBA46Nd8M8ZskucXrr+GEFk7N4xB2w47c/pDnWMoR8d8xQvvZpK9UKhWP2N56A==}
+  /@chakra-ui/vue-layout/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-mInVh8e0w9LQONynSRcE3Z4FRBdR8yJUaCsZVbYDfC5dBL3kHdv6Rn46aRb5zEwaO05dxXDGM4ghFg+ZGHagQQ==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-icon': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-icon': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       csstype: 3.1.1
       vue: 3.2.47
     transitivePeerDependencies:
       - '@emotion/css'
     dev: false
 
-  /@chakra-ui/vue-next/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-fzGMtR8sWqbX94mjG0QmslEr6TitfANxXVMwaKtVnPCTbltaA7ozD+Lja7qtlQoEb4e0KC3YxtoPjggh7MiO5Q==}
+  /@chakra-ui/vue-next/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-z9ifMLhQEJ+NazinJmKp/ORMkX0c4hh1+LZs3r18USh/pGxQhVkg+KkaUkOdbystLBCFeKnnsZyF9gevKVK5LA==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-accordion': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-alert': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-avatar': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-breadcrumb': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-button': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-checkbox': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-close-button': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-code': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-color-mode': 2.1.0-beta.2_vue@3.2.47
-      '@chakra-ui/c-focus-lock': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-form-control': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-icon': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-image': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-input': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-media-query': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-menu': 0.0.0-beta.5_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-modal': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-motion': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-pin-input': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-accordion': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-alert': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-avatar': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-breadcrumb': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-button': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-checkbox': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-close-button': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-code': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-color-mode': 2.1.0-beta.3_vue@3.2.47
+      '@chakra-ui/c-focus-lock': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-form-control': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-icon': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-image': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-input': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-live-region': 2.0.0-beta.1_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-media-query': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-menu': 0.0.0-beta.6_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-modal': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-motion': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-pin-input': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
       '@chakra-ui/c-popper': 2.1.0-beta.3_vue@3.2.47
-      '@chakra-ui/c-portal': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-reset': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-scroll-lock': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-skip-nav': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-spinner': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-tag': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-theme-provider': 2.1.0-beta.2_fkfm53tnm2ahu4ji7pnqi6juem
-      '@chakra-ui/c-toast': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/c-visually-hidden': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/styled-system': 2.5.1
-      '@chakra-ui/theme': 2.2.5_ak67p4fuwhwgy7hpxa6ejvcgoy
-      '@chakra-ui/theme-tools': 2.0.17_ak67p4fuwhwgy7hpxa6ejvcgoy
+      '@chakra-ui/c-portal': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-reset': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-scroll-lock': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-skip-nav': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-spinner': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-table': 2.0.0-beta.1_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-tag': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-textarea': 0.0.0-beta.1_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-theme-provider': 2.1.0-beta.2_dktamzpa6jqdn7hwvx7scpggwq
+      '@chakra-ui/c-toast': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/c-visually-hidden': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/styled-system': 2.6.1
+      '@chakra-ui/theme': 2.2.5_es2flcfvdj7o2v4vs237ptvmhy
+      '@chakra-ui/theme-tools': 2.0.17_es2flcfvdj7o2v4vs237ptvmhy
       '@chakra-ui/theme-utils': 2.0.11
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-accessibilty': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-composables': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-layout': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-styled': 2.1.0-beta.3_vue@3.2.47
-      '@chakra-ui/vue-system': 2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-accessibilty': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-composables': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-layout': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-styled': 2.1.0-beta.4_vue@3.2.47
+      '@chakra-ui/vue-system': 2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       '@emotion/cache': 11.10.5
       '@emotion/serialize': 1.1.1
       '@emotion/sheet': 1.2.1
@@ -989,12 +1004,12 @@ packages:
       - react
     dev: false
 
-  /@chakra-ui/vue-styled/2.1.0-beta.3_vue@3.2.47:
-    resolution: {integrity: sha512-b3Gv9UR5oigrG+QJ6yVPI1UcAeVecPR7lmViVBSlFovGMZ7Pbu7R2ocxZfffmRlS/fJVMNA+XqoIIPYc08AFdQ==}
+  /@chakra-ui/vue-styled/2.1.0-beta.4_vue@3.2.47:
+    resolution: {integrity: sha512-8/H4ue4RMZH5B8DPxcLSC2f1v4rLh8UdY+2oO4oc68iYlo41ITnimb0l9T6MR9GzqrEjnUurx6lS7WeMjwZZxw==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       '@emotion/cache': 11.10.5
       '@emotion/css': 11.10.6
       '@emotion/serialize': 1.1.1
@@ -1006,16 +1021,16 @@ packages:
       vue: 3.2.47
     dev: false
 
-  /@chakra-ui/vue-system/2.1.0-beta.3_g6hezj6bmmqb2rueoaosrcya6m:
-    resolution: {integrity: sha512-7j/PnVwn2SGRIddEdYyi0h+3vOACrV1bJCFr3I8UdC1tSZEIoPMQKqJEJJHIK7Yqecz9lidAmyHmYdmq8Ei1+Q==}
+  /@chakra-ui/vue-system/2.1.0-beta.4_g6hezj6bmmqb2rueoaosrcya6m:
+    resolution: {integrity: sha512-QvQdHsIDzB/F9lloqc/SFp2ICOyIp+n3EdLJMEb8qWVRO/8bLmltFJwYQR6ucalDKP7T1MrXGd9Jmq6ZXyqofw==}
     peerDependencies:
       '@emotion/css': ^11.10.0
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/c-color-mode': 2.1.0-beta.2_vue@3.2.47
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/c-color-mode': 2.1.0-beta.3_vue@3.2.47
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
-      '@chakra-ui/vue-utils': 2.1.0-beta.2_vue@3.2.47
+      '@chakra-ui/vue-utils': 2.1.0-beta.3_vue@3.2.47
       '@emotion/css': 11.10.6
       '@emotion/serialize': 1.1.1
       lodash.camelcase: 4.3.0
@@ -1024,12 +1039,12 @@ packages:
       vue: 3.2.47
     dev: false
 
-  /@chakra-ui/vue-utils/2.1.0-beta.2_vue@3.2.47:
-    resolution: {integrity: sha512-ptjDZBFr/YDVqAwy4hiMYFcPLIm+ceMehzhX+I4R2JT4wWYluvVJ/XPrjNXLqfDOnMsooXoDw8lx4xT6grrwwg==}
+  /@chakra-ui/vue-utils/2.1.0-beta.3_vue@3.2.47:
+    resolution: {integrity: sha512-RNPYTlKY9FnFhRDQ+sqS1piGBQ909SRrqQEjL0eMLqiX9kO2i3oHT6ighNBAi8fadkSjzT3lktR/m8VD7kBH8Q==}
     peerDependencies:
       vue: 3.2.47
     dependencies:
-      '@chakra-ui/styled-system': 2.5.1
+      '@chakra-ui/styled-system': 2.6.1
       '@chakra-ui/utils': 2.0.15
       '@types/lodash.camelcase': 4.3.7
       '@types/lodash.memoize': 4.1.7
@@ -2081,6 +2096,12 @@ packages:
 
   /@types/lodash.memoize/4.1.7:
     resolution: {integrity: sha512-lGN7WeO4vO6sICVpf041Q7BX/9k1Y24Zo3FY0aUezr1QlKznpjzsDk3T3wvH8ofYzoK0QupN9TWcFAFZlyPwQQ==}
+    dependencies:
+      '@types/lodash': 4.14.191
+    dev: false
+
+  /@types/lodash.mergewith/4.6.6:
+    resolution: {integrity: sha512-RY/8IaVENjG19rxTZu9Nukqh0W2UrYgmBj5sdns4hWRZaV8PqR7wIKHFKzvOTjo4zVRV7sVI+yFhAJql12Kfqg==}
     dependencies:
       '@types/lodash': 4.14.191
     dev: false
