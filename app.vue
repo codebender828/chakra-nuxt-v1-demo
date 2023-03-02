@@ -93,14 +93,18 @@
           </c-button>
         </c-wrap-item>
         <c-wrap-item>
-          <c-button
-            size="lg"
-            :color-scheme="selectedColor.color"
-            :right-icon="DocumentationIcon"
-            variant="outline"
+          <c-link
+            href="https://github.com/codebender828/chakra-vue-v1-demo#readme"
           >
-            Documentation
-          </c-button>
+            <c-button
+              size="lg"
+              :color-scheme="selectedColor.color"
+              :right-icon="DocumentationIcon"
+              variant="outline"
+            >
+              Documentation
+            </c-button>
+          </c-link>
         </c-wrap-item>
       </c-wrap>
       <c-button-group :color-scheme="selectedColor.color" variant="outline">
