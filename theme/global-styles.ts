@@ -1,4 +1,4 @@
-import type { SystemStyleObject } from "@chakra-ui/styled-system";
+import type { SystemStyleObject } from "@chakra-ui/vue-next";
 
 export const globalStyles: SystemStyleObject = {
   "html, body": {

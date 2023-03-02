@@ -1,23 +1,23 @@
-# Chakra UI Nuxt 3 Minimal Starter
+# Chakra UI Nuxt Next - Starter
 
-This project installs Chakra UI Vue in your Nuxt project. Simply installing the `@chakra-ui/nuxt-next` module
-is enough to get yout project up and running in development mode.
+This repo is a starter template for the next version of Chakra UI Vue v1. v1 was rewriten from the ground up with the following new features:
+- TS support
+- Powered by UI state machines
+- Improved theming API design. You can see the `theme` to see the new theming API usage
+- Semantic Tokens
+- More low-level hooks and composables
 
-However, in order to get this working in production with **pnpm**, we have to make a few more tweeks:
-1. Remove `shamefully-hoist=true` from the `.npmrc`.
-2. Manually install the following dependencies (Altogether are **7.2KB**)
-  1. `lodash.mergewith` - 3.7kb
-  2. `lodash.camelcase` - 2.1kb
-  3. `lodash.memoize` - 1.4kb
-  
-  4. `vue` (Already needed by Nuxt.js)
+### Documentation (Heavily WIP)
+> https://next.vue.chakra-ui.com
 
-These dependencies are already used inside the framework since they are optimized inside of Vite. However, due to
-pnpm's dependency resolution, [Rollup](https://rollup.js.org) may not know how to resolve dependencies at build-time. So we have to do some special handling
-to accomplish this resolution.
+If you would like to contribute to the docs, or component development, please reach out to me on Twitter.
 
-The Chakra UI Team is aware of this unique situation when working with pnpm and Nuxt.js. And we are currently working towards solving
-this problem.
+### Got questions?
+DM me on [Twitter](https://twitter.com/codebender828)
+
+#### Contributing
+The Chakra UI Vue team is composed of only 4 people maintaining Chakra UI in our free time. So we're always happy to get some helping hands! If this interests, please DM me on [Twitter](https://twitter.com/codebender828)
+
 
 ## Setup
 
@@ -25,12 +25,6 @@ Make sure to install the dependencies:
 
 ```bash
 # yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
 pnpm install
 ```
 
@@ -39,7 +33,7 @@ pnpm install
 Start the development server on http://localhost:3000
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 ## Production
@@ -47,13 +41,13 @@ npm run dev
 Build the application for production:
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 Locally preview production build:
 
 ```bash
-npm run preview
+pnpm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

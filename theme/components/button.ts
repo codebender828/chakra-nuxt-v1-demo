@@ -1,4 +1,4 @@
-import { defineStyleConfig } from "@chakra-ui/styled-system";
+import { defineStyleConfig } from "@chakra-ui/vue-next";
 
 export const Button = defineStyleConfig({
   baseStyle: {
