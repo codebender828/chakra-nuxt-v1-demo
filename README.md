@@ -18,6 +18,10 @@ This repo is a starter template for the next version of Chakra UI Vue v1. v1 was
 
 If you would like to contribute to the docs, or component development, please reach out to me on Twitter.
 
+### See available components
+> Components Playground: https://chakra-ui-vue-next-playground-git-develop-chakra-ui.vercel.app/
+> V1 Repo: https://github.com/chakra-ui/chakra-ui-vue-next
+
 ### Got questions?
 DM me on [Twitter](https://twitter.com/codebender828)
 
