@@ -58,6 +58,7 @@
       >
         <c-wrap-item v-for="(color, i) in colors" :key="color">
           <c-circle
+            as="button"
             box-size="8"
             :bg="`${color}.400`"
             cursor="pointer"
@@ -66,7 +67,7 @@
               transform: 'scale(1.1)',
               transition: 'all 0.2s',
             }"
-            @mouseenter="selectedColor.color = color"
+            @click="selectedColor.color = color"
           />
         </c-wrap-item>
       </c-wrap>
@@ -162,8 +163,8 @@ const theme = useTheme();
 const colors = computed(
   () =>
     new Set(
-      Object.keys(theme.colors)
-        .filter((color) => typeof theme.colors[color] === "object")
+      Object.keys(theme.colors!)
+        .filter((color) => typeof theme.colors![color] === "object")
         .filter((color) => !["blackAlpha", "whiteAlpha"].includes(color))
     )
 );
